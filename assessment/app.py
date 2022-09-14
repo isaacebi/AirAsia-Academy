@@ -6,7 +6,7 @@ import seaborn as sns
 from sklearn.cluster import KMeans
 
 #%% Data Loading
-CUSTOMER_PATH = "https://raw.githubusercontent.com/isaacebi/AirAsia-Academy/main/assessment/mall_customer.csv"
+CUSTOMER_PATH = "https://raw.githubusercontent.com/isaacebi/AirAsia-Academy/main/assessment/datasets/mall_customer.csv"
 df = pd.read_csv(CUSTOMER_PATH)
 
 #%% Feature Selection
