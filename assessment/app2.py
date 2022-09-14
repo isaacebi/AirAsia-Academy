@@ -23,7 +23,7 @@ df.drop_duplicates()
 #%% Streamlit
 
 # write title page
-st.header("My first Streamlit App")
+st.header("Model Deployment with Streamlit")
 
 # display dataframe
 st.dataframe(df)
