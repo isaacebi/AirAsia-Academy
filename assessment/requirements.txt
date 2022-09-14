@@ -4,3 +4,5 @@ streamlit
 sklearn
 matplotlib
 seaborn
+folium
+geopandas
