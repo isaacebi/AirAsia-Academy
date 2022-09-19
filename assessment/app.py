@@ -16,7 +16,7 @@ X = df[['Age', 'Annual_Income_(k$)', 'Spending_Score']]
 #%% Streamlit
 
 # write title page
-st.header("My first Streamlit App")
+st.header("Mall Customer Segmentation")
 
 # display dataframe
 st.dataframe(df)
